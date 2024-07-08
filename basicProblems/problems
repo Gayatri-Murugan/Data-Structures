@@ -1,4 +1,6 @@
-fine average in array
+fine average in array(looping, iteration)
 divisible check
 odd 0r even 
-palindrome(inprogress)
+palindrome(2 methods)
+  ** reversing num and check(iteration, recursive, number to str[2 methods])
+  ** find using str palindrome
